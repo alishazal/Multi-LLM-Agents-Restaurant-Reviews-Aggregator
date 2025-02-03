@@ -1,0 +1,5 @@
+/.DS_Store
+/.cache
+/__pycache__
+/runtime-log.txt
+/student_info.json
